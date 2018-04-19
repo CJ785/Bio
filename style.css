@@ -1,0 +1,14 @@
+html {
+    background-color: dodgerblue;
+    text-align: center;
+    font-size: 25px;
+    list-style-type: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#para1 {
+    text-align: center;
+}
